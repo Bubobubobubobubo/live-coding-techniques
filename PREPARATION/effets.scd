@@ -3,10 +3,10 @@
  *      Raphaël Forment, novembre / décembre 2021
  * ====================================================
  *
- * Collection de quelques synthétiseurs pré-codés. Il est toujours préférable
- * d'utiliser des synthétiseurs "maison" mais ceux-ci permettent assez rapide-
- * ment d'obtenir des sons intéressants sans nécessairement avoir besoin de se
- * plonger dans de la programmation bas niveau avant de jouer quelques notes.
+ * Collection de quelques effets pré-codés. Délais, réverbérations, quelques 
+ * effets classiques et efficaces pour animer une performance. Ne pas rater 
+ * le fichier explicatif qui détaille comment créer et gérer des effets en 
+ * temps réel au cours de la performance.
  *
  */
 
